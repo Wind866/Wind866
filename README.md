@@ -10,7 +10,7 @@ A 股盘后自动化：定时抓行情 → 算观察池 / 出看板 → 推飞�
 | [BIGApush](https://github.com/Wind866/BIGApush) | 早晚资讯、盘中观察池、收盘选股（15 种形态策略）、个股查询、档期对账 | 08:13 / 12:53 / 19:33 / 21:53 | — |
 | [astock-screener](https://github.com/Wind866/astock-screener) | 股东增减持 / 定增 / 回购 / 分红 事件筛选看板 | 20:33 | [看板](https://wind866.github.io/astock-screener/) |
 | [limit-up-relay](https://github.com/Wind866/limit-up-relay) | 涨停次日接力策略：情绪打分、接力观察池、收盘复盘 | 18:53 收盘定稿 | [看板](https://wind866.github.io/limit-up-relay/) |
-| [etf-feishu-push](https://github.com/Wind866/etf-feishu-push) | 全市场 ETF 各指数主力净流入 → 近 10 日对照图 | 20:03 | — |
+| [etf-feishu-push](https://github.com/Wind866/etf-feishu-push) | 全市场 ETF 各指数主力净流入 → 近 20 日对照图 | 20:03 | — |
 
 ## 共同的工程约定
 
